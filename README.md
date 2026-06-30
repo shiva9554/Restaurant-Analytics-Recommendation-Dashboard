@@ -31,12 +31,15 @@ This project performs Exploratory Data Analysis (EDA) on restaurant data to iden
 
 ### Restaurant Overview
 
-![Overview](dashboard/Cutomer Insights.png)
+[View Overview](<img width="1832" height="718" alt="Restaurant Overview" src="https://github.com/user-attachments/assets/c6eda4d8-361b-49b6-9415-a193cccf5d35" />
+)
 
 ### Cuisine Analysis
 
-![Cuisine](dashboard/Restaurant Overview.png)
+[View Cuisine](<img width="1832" height="718" alt="Cutomer Insights" src="https://github.com/user-attachments/assets/11c4b95d-05c4-4065-b9de-41f06a18bf66" />
+)
 
 ### Ratings Analysis
 
-![Ratings](dashboard/Star Rstaurant Dashboard.png)
+[View Ratings](<img width="1832" height="718" alt="Star Rstaurant Dashboard" src="https://github.com/user-attachments/assets/0b1f7493-7c98-4489-a1f5-d363e9154bfd" />
+)
