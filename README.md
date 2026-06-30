@@ -31,12 +31,12 @@ This project performs Exploratory Data Analysis (EDA) on restaurant data to iden
 
 ### Restaurant Overview
 
-![Overview]([dashboard/dashboard1.png](https://github.com/shiva9554/Restaurant-Analytics-Recommendation-Dashboard/blob/main/dashboard/Cutomer%20Insights.png))
+![Overview](dashboard/Cutomer Insights.png)
 
 ### Cuisine Analysis
 
-![Cuisine]([dashboard/dashboard2.png](https://github.com/shiva9554/Restaurant-Analytics-Recommendation-Dashboard/blob/main/dashboard/Restaurant%20Overview.png))
+![Cuisine](dashboard/Restaurant Overview.png)
 
 ### Ratings Analysis
 
-![Ratings]([dashboard/dashboard3.png](https://github.com/shiva9554/Restaurant-Analytics-Recommendation-Dashboard/blob/main/dashboard/Star%20Rstaurant%20Dashboard.png))
+![Ratings](dashboard/Star Rstaurant Dashboard.png)
