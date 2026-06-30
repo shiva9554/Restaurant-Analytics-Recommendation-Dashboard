@@ -18,13 +18,13 @@ This project performs Exploratory Data Analysis (EDA) on restaurant data to iden
 ## Tableau Dashboards
 
 ### Dashboard 1 – Restaurant Overview
-🔗 [https://public.tableau.com/views/your_dashboard1](https://public.tableau.com/app/profile/shiva.verma8469/viz/shared/S6FSCFCTT)
+🔗 [View](https://public.tableau.com/app/profile/shiva.verma8469/viz/shared/S6FSCFCTT)
 
 ### Dashboard 2 – Cuisine Analysis
-🔗 [https://public.tableau.com/views/your_dashboard2](https://public.tableau.com/app/profile/shiva.verma8469/viz/dashboard2_17828079348410/CutomerInsights)
+🔗 [View](https://public.tableau.com/app/profile/shiva.verma8469/viz/dashboard2_17828079348410/CutomerInsights)
 
 ### Dashboard 3 – Ratings & Customer Insights
-🔗 [https://public.tableau.com/views/your_dashboard3 (https://public.tableau.com/app/profile/shiva.verma8469/viz/dashboard3_17828080637550/StarRstaurantDashboard)
+🔗 [View](https://public.tableau.com/app/profile/shiva.verma8469/viz/dashboard3_17828080637550/StarRstaurantDashboard)
 ---
 
 ## Dashboard Screenshots
